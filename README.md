@@ -17,7 +17,7 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 
 Proyecto (código): 
-URL (link) del proyecto en Github: 
+URL (link) del proyecto en Github: https://matildablanco.github.io/SORpresa
 
 
 Tipo/Género:  
@@ -28,31 +28,36 @@ Tipo/Género:
 
 
 ## Resumen
+Monjas de Belorado desempeñan su actividad con normalidad y viven en armonía con los enanos que tienen en el sótano fabricando dulces. Su método religioso se basa en cantos cristianos mezclados con el reggaeton y zumba, prácticas que están ganando popularidad. Conviven todos tranquilamente hasta que una visita pastoral del Vaticano descubre a los enanos trabajando y cantando. Al probar una de sus maravillosas galletas y bajar a las cocinas para felicitarlas, se encuentra con todo el pastel.  
 
 
 ### Personaje
+Sor Presa
 
-
-![](img-nobody.png)
+![](<img width="1024" height="1265" alt="Sorpresa" src="https://github.com/user-attachments/assets/75e75d3a-7224-4bc7-81f4-87c958a20c64" />
+)
 
 Nombre: 
+Sor Presa
 
 
 NOTA: La ficha del personaje se puede hacer con la pizarra online https://excalidraw.com/ y la plantilla que se tiene en este repositorio llamada [ficha_personaje.excalidraw](ficha_personaje.excalidraw)  <br> 
 * hay que descargarla al ordenado y usarla en excalidraw con la opción archivo > Abrir
 
 ### Historia
-
+Sor Presa es la madre superior de un convento que comparten con sus amigos los enanos, su metodología de rezo esta basada en el reggaetón-zumba con temática religiosa.
 
 ### TagLine
-
+Monjas  punk tienen una red de enanos y asaltan El Vaticano zumbando.
 
 ### Conflicto 
-
+Tras la visita pastoral, la monja Sorpresa es encacelada en una jaula en la plaza del Vaticano por peganismo. Sin embargo, contará con la ayuda de sus hermanos los enanos para liberarla.
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: (img personaje y enlace a interactivo)
+- <img width="1024" height="1265" alt="Sorpresa" src="https://github.com/user-attachments/assets/a2ed8dc9-931a-4acd-94d3-df9668533792" />
+
 
 
 - Banner/Teaser:  (enlace) 
