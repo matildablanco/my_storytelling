@@ -60,7 +60,7 @@ https://app.lumi.education/run/5e4a7u
 
 - ArcWeave:  
 https://arcweave.com/app/project/1M62yooEwr
--Figma:
+- Figma:
 https://www.figma.com/design/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=1010-454&t=jXaZYbNen9oGMRgY-0
 
 
