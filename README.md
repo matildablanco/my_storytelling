@@ -16,8 +16,8 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 - :woman: Paula Navas 
 
 
-Proyecto (código): 
-URL (link) del proyecto en Github: https://matildablanco.github.io/SORpresa
+Proyecto (código): 6F
+URL del proyecto en Github: https://matildablanco.github.io/SORpresa
 
 
 Tipo/Género:  
@@ -55,13 +55,17 @@ Tras la visita pastoral, la monja Sorpresa es encacelada en una jaula en la plaz
 
 - Personaje: (img personaje y enlace a interactivo)
 - <img width="1024" height="1265" alt="Sorpresa" src="https://github.com/user-attachments/assets/a2ed8dc9-931a-4acd-94d3-df9668533792" />
+https://app.lumi.education/run/5e4a7u 
 
 
+- ArcWeave:  
+https://arcweave.com/app/project/1M62yooEwr
+-Figma:
+https://www.figma.com/design/6BSsyvQN4uUSfmA7jSj0qj/CRIAV-Demo?node-id=1010-454&t=jXaZYbNen9oGMRgY-0
 
-- Banner/Teaser:  (enlace) 
 
-
-- Storytelling: (enlace) 
+- Storytelling: 
+  https://olgalopezvillaro.itch.io/sor-presa
 
 
 
